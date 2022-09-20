@@ -13,6 +13,7 @@ PATH = os.path.dirname(os.path.realpath(__file__))
 #   custom tkinter gui: https://github.com/TomSchimansky/CustomTkinter
 #   Made to learn GUI with Python
 #   Copied Class App from CTK example and modified it
+#   Python 3.10.7
 #
 
 # set standard themes
