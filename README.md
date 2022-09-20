@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/Aleks-Zielinski/Wordle.py/blob/main/assetsForReadme/icon64w.png "Icon")   Wordle.py
+# Wordle.py
  Recreation of popular wordle game in Python with customkinter  
  The game contains almost 15k words  
  As in original version, you can only guess real words that are in [words.py](https://github.com/Aleks-Zielinski/Wordle.py/blob/main/words.py "words.py")  
